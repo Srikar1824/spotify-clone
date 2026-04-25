@@ -1,0 +1,126 @@
+{
+  "songs": [
+    {
+      "id": "h1",
+      "title": "Kesariya",
+      "artist": "Arijit Singh",
+      "album": "Brahmastra",
+      "cover": "https://images.unsplash.com/photo-1501743029944-f88f3f4a7c77?auto=format&fit=crop&w=300&h=300&q=80",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "duration": 228,
+      "language": "Hindi",
+      "trending": true
+    },
+    {
+      "id": "h2",
+      "title": "Raataan Lambiyan",
+      "artist": "Jubin Nautiyal",
+      "album": "Shershaah",
+      "cover": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?auto=format&fit=crop&w=300&h=300&q=80",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "duration": 211,
+      "language": "Hindi",
+      "trending": true
+    },
+    {
+      "id": "h3",
+      "title": "Pasoori",
+      "artist": "Ali Sethi & Shae Gill",
+      "album": "Coke Studio",
+      "cover": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=300&h=300&q=80",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "duration": 195,
+      "language": "Hindi",
+      "trending": true
+    },
+    {
+      "id": "e1",
+      "title": "As It Was",
+      "artist": "Harry Styles",
+      "album": "Harry's House",
+      "cover": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?auto=format&fit=crop&w=300&h=300&q=80",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "duration": 173,
+      "language": "English",
+      "trending": true
+    },
+    {
+      "id": "e2",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album": "After Hours",
+      "cover": "https://images.unsplash.com/photo-1514306191717-452ec28c7814?auto=format&fit=crop&w=300&h=300&q=80",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "duration": 200,
+      "language": "English",
+      "trending": true
+    },
+    {
+      "id": "e3",
+      "title": "Flowers",
+      "artist": "Miley Cyrus",
+      "album": "Endless Summer Vacation",
+      "cover": "https://images.unsplash.com/photo-1496062031456-07b8f162a322?auto=format&fit=crop&w=300&h=300&q=80",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "duration": 211,
+      "language": "English",
+      "trending": true
+    },
+    {
+      "id": "t1",
+      "title": "Naatu Naatu",
+      "artist": "Rahul Sipligunj & Kaala Bhairava",
+      "album": "RRR",
+      "cover": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=300&h=300&q=80",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "duration": 204,
+      "language": "Telugu",
+      "trending": true
+    },
+    {
+      "id": "t2",
+      "title": "Butta Bomma",
+      "artist": "Armaan Malik",
+      "album": "Ala Vaikunthapurramuloo",
+      "cover": "https://images.unsplash.com/photo-1526218626217-dc65a29bb444?auto=format&fit=crop&w=300&h=300&q=80",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "duration": 219,
+      "language": "Telugu",
+      "trending": true
+    },
+    {
+      "id": "t3",
+      "title": "Ramuloo Ramulaa",
+      "artist": "Anurag Kulkarni",
+      "album": "Ala Vaikunthapurramuloo",
+      "cover": "https://images.unsplash.com/photo-1493225255756-d9584f8606e9?auto=format&fit=crop&w=300&h=300&q=80",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+      "duration": 237,
+      "language": "Telugu",
+      "trending": true
+    }
+  ],
+  "featuredPlaylists": [
+    {
+      "id": "p1",
+      "title": "Hindi Top Hits",
+      "description": "Best of Bollywood.",
+      "cover": "https://images.unsplash.com/photo-1501743029944-f88f3f4a7c77?auto=format&fit=crop&w=300&h=300&q=80",
+      "language": "Hindi"
+    },
+    {
+      "id": "p2",
+      "title": "Telugu Top Hits",
+      "description": "Trending Telugu songs.",
+      "cover": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=300&h=300&q=80",
+      "language": "Telugu"
+    },
+    {
+      "id": "p3",
+      "title": "Global Pop",
+      "description": "Trending worldwide.",
+      "cover": "https://images.unsplash.com/photo-1514306191717-452ec28c7814?auto=format&fit=crop&w=300&h=300&q=80",
+      "language": "English"
+    }
+  ]
+}
